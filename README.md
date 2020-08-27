@@ -2,7 +2,7 @@
  - SW창작품 제출을 위한 프로젝트
  
  - PYGAME
-   - 게임 제목 :
+   - 게임 제목 : Avoid_Covid
    - 게임 제작자 : SpaceLuis
    - 게임 설명 :
    
